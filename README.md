@@ -24,6 +24,11 @@
 
 ---
 
+## video
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1DLl20xGPpQ72SVOb-ehCRyiAsJEVnF0y/view?usp=sharing)
+
+---
+
 ## 🎯 Overview
 
 > **Goal:** Analyze customer and sales data to find top customers, measure how discounts change profit, model the Sales → Profit relationship, and present everything in one clean dashboard.
